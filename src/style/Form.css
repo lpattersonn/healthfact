@@ -1,0 +1,15 @@
+.form {
+  width: 90%;
+  margin: 30px 0 30px 0;
+}
+
+.form-input {
+  width: 80%;
+  outline: none;
+  border-radius: 7px;
+}
+
+.form-button {
+  width: 18%;
+  border-radius: 7px;
+}
